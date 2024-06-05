@@ -1,0 +1,28 @@
+{
+  "name": "mdbhojwani/magento2-store-view-pricing",
+  "description": "Magento 2 Store View Pricing",
+  "keywords": ["magento", "magento2 extension", "magento 2 extension", "extension", "module", "magento2 module", "magento 2 module", "catalog", "product", "store", "store view", "tier","price","pricing"],
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mdbhojwani/magento2-store-view-pricing",
+  "authors": [
+    {
+      "name": "Manish Bhojwani",
+      "email": "manishbhojwani3@gmail.com",
+      "homepage": "https://github.com/mdbhojwani"
+    }
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Mdbhojwani\\StorePricing\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
