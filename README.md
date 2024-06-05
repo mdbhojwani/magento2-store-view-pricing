@@ -32,6 +32,9 @@ bin/magento cache:flush
 ![Module Configuration Screen](media/slide-1.png)
 <br />
 ![Catalog Price Scope Configuration Screen](media/slide-2.png)
+<br />
+![Catalog Product Price Update on Store View Screen](media/slide-3.png)
+
 
 ## License
 
