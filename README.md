@@ -29,9 +29,9 @@ bin/magento cache:flush
 2. Navigate to Store > Configurations > Mdbhojwani > Store View Pricing
 3. Enable the Module and Catalog Price Scope to 'Store View'
 ```
-![alt Module Configuration Screen](https://github.com/mdbhojwani/magento2-store-view-pricing/blob/master/media/slide-1.png?raw=true)
+![Module Configuration Screen](https://github.com/mdbhojwani/magento2-store-view-pricing/blob/master/media/slide-1.png?raw=true)
 <br />
-![alt Catalog Price Scope Configuration Screen](https://github.com/mdbhojwani/magento2-store-view-pricing/blob/master/media/slide-2.png?raw=true)
+![Catalog Price Scope Configuration Screen](https://github.com/mdbhojwani/magento2-store-view-pricing/blob/master/media/slide-2.png?raw=true)
 
 ## License
 
