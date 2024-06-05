@@ -31,12 +31,15 @@ bin/magento cache:flush
 3. Enable the Module and Catalog Price Scope to 'Store View'
 ```
 - Module Configuration
+
 ![Module Configuration Screen](media/slide-1.png)
 <br />
 - Catalog Price Scope Configuration
+
 ![Catalog Price Scope Configuration Screen](media/slide-2.png)
 <br />
 - Update Catalog Product Price on Store View
+
 ![Catalog Product Price Update on Store View Screen](media/slide-3.png)
 
 
