@@ -19,17 +19,17 @@
             <label>Store View Pricing</label>
             <resource>Mdbhojwani_StorePricing::config</resource>
             <group id="general" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-                <label>General Settings</label>
+                <label>General Configurations</label>
                 <field id="enabled" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Enabled</label>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
                 </field>
             </group>
             <group id="price" translate="label" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
-                <label>Price Settings</label>
+                <label>Catalog Price Configurations</label>
                 <field id="price_settings_info" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label><![CDATA[&nbsp;]]></label>
-                    <frontend_model>Mdbhojwani\StorePricing\Block\Adminhtml\System\Config\Form\Field\PriceSetting</frontend_model>
+                    <frontend_model>Mdbhojwani\StorePricing\Block\Adminhtml\System\Config\Form\Field\Price</frontend_model>
                 </field>
             </group>
             <group id="support" translate="label" type="text" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">

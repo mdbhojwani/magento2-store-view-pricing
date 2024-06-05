@@ -12,9 +12,9 @@ use Magento\Framework\Data\Form\Element\AbstractElement;
 use Magento\Config\Block\System\Config\Form\Field;
 
 /**
- * Class PriceSetting
+ * Class Price
  */
-class PriceSetting extends Field
+class Price extends Field
 {
     /**
      * Set template
@@ -24,7 +24,7 @@ class PriceSetting extends Field
     protected function _construct()
     {
         parent::_construct();
-        $this->setTemplate('Mdbhojwani_StorePricing::system/config/form/price_setting.phtml');
+        $this->setTemplate('Mdbhojwani_StorePricing::system/config/form/field/price.phtml');
     }
 
     public function render(AbstractElement $element)

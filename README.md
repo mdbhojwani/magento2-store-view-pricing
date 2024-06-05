@@ -22,6 +22,14 @@ bin/magento cache:clean
 bin/magento cache:flush
 ```
 
+## Configurations
+
+```
+1. Login to Magento Backend
+2. Navigate to Store > Configurations > Mdbhojwani > Store View Pricing
+3. Enable the Module and Catalog Price Scope to 'Store View'
+```
+
 ## License
 
 [Open Software License ("OSL") v. 3.0](https://opensource.org/license/osl-3-0-php)
