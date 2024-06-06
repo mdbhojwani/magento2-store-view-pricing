@@ -9,7 +9,7 @@
 
 ## Summary
 
-Module use to allow to set the catalog product prices for specific store and sale catalog items in different prices for each stores.
+Module is used to set different product prices or sale prices for each store. Store Manager can sell the products with different prices across each store.
 
 ## Installation
 
